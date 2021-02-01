@@ -1,4 +1,4 @@
-These are the new lines that I'm adding to my project. NO MORE CONFLICT
+I will have no conflict in this repo!
 This is a newer line.
 THIS IS THE NEWEST LINE.
 
